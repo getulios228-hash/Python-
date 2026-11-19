@@ -1,5 +1,4 @@
 # ============================================================
-# Trabalho em Dupla – Lógica de Programação
 # Sistema Inteligente de Embarque em Aeroporto
 #
 # Aluno 1: Getulio Alves da Silva 
